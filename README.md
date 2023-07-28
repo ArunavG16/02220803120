@@ -13,3 +13,9 @@
 ## Screenshot 3
 
 <img src="./number-management-service/Screenshot (22).png">
+
+# Task 2
+
+## Screenshot 2
+
+<img src="./train-report/Screenshot.png">

@@ -1,7 +1,7 @@
 import React from 'react';
 import {  Routes, Route } from 'react-router-dom';
 import TrainListPage from './TrainList';
-import TrainDetailsPage from './TrainDetail';
+import TrainDetailsPage from './TrainDetails';
 
 function App() {
 return (
